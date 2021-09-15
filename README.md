@@ -2,8 +2,6 @@
 
 This boilerplate was created to help Eclipse Projects migrate their website to Hugo!
 
-[![Build Status](https://travis-ci.org/EclipseFdn/hugo-eclipsefdn-website-boilerplate.svg?branch=main)](https://travis-ci.org/eclipsefdn/hugo-eclipsefdn-website-boilerplate)
-
 ## Getting started
 
 Clone the project with submodules and start a web server:

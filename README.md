@@ -41,7 +41,7 @@ The `Jenkinsfile` example assumes that your project will use `main` as the defau
 ## Contributing
 
 1. [Fork](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html) the [hugo-eclipsefdn-website-boilerplate](https://gitlab.eclipse.org/eclipsefdn/it/webdev/hugo-eclipsefdn-website-boilerplate) repository
-2. Clone repository: `git clone --recurse-submodules https://gitlab.eclipse.org/[your_username]/hugo-eclipsefdn-website-boilerplate.git`
+2. Clone repository: `git clone --recurse-submodules https://gitlab.eclipse.org/[your_gitlab_username]/hugo-eclipsefdn-website-boilerplate.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -m 'Add some feature' -s`
 5. Push feature branch: `git push origin my-new-feature`

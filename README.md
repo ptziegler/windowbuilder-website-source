@@ -32,7 +32,7 @@ Note that each and every Eclipse project automatically gets a Git repository wit
 
 We recommend that our projects start with forking our [hugo-eclipsefdn-website-boilerplate](https://gitlab.eclipse.org/eclipsefdn/it/webdev/hugo-eclipsefdn-website-boilerplate) project.
 
-After forking this project for your own use, please go to your project's Settings > Advanced > Remove fork relationship and remove relationship, which won't be necessary unless you want to contribute back to the upstream project.
+After forking this project for your own use, please go to your project's Settings > General > Advanced > Remove fork relationship and remove the fork relation, this  won't be necessary unless you want to contribute back to this project.
 
 Once your Hugo sources are in the proper repository, update the file named `Jenkinsfile` at the root of the repository with the proper value for `PROJECT_NAME` and `PROJECT_BOT_NAME` environment variable. We also expect projects to update the README.md, config.toml and all the files in the content folder.
 
